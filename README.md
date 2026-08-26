@@ -13,8 +13,8 @@ capitalization of every character.
 The Methods / Functions used: 
 
 
-def rotate_word(text):               
-    return text[1:] + text[0]
+'''python def rotate_word(text):               
+    return text[1:] + text[0]'''
     
 
 
