@@ -81,11 +81,17 @@ This problem focuses on reconfiguring the order of the 2 elements in a list. The
 
 
 README FILE VERSION HISTORY:
+
 August 25, 2026 Inputted initial draft for the README file
+
 August 26, 2026 Finished Draft 
+
 August 26, 2026 Minor adjustments 
+
 August 27, Applying Highlights and Quoting Code
+
 August 27, Finishing Final Output 
+
 
 
 
