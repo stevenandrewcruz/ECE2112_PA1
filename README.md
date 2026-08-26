@@ -14,8 +14,10 @@ The Methods / Functions used:
 
 
 '''diff
+
 def rotate_word(text):               
     return text[1:] + text[0]
+    
 '''
     
 
