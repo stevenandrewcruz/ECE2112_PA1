@@ -59,11 +59,11 @@ This problem requires a function named make_username() that accepts two strings:
 Create a function named swap_bookends() that accepts a list containing at least two elements. Unpack
 the list into three variables:
 
-• first – the first element;
+• **first** – the first element;
 
-• middle – a list containing everything between the first and last elements; and
+• **middle** – a list containing everything between the first and last elements; and
 
-• last – the last element.
+• **last** – the last element.
 
 Using these variables, return a new list in which the first and last elements have exchanged positions.
 The elements in middle must remain in their original order. Do not modify the input list.
